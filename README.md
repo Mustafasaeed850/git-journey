@@ -1,19 +1,22 @@
 # Git Journey
 
-A small practice repository I used while learning the fundamentals of Git and GitHub.
+A small practice repository for learning Git and GitHub fundamentals.
 
-## What this repository represents
+## Purpose
 
-This repo is intentionally simple. It was created to practice core version-control workflows such as:
+The files `one.txt` and `two.txt` support basic version-control exercises, including:
 
-- Initializing and cloning repositories
-- Tracking files and creating commits
-- Working with branches
-- Pushing changes to GitHub
-- Understanding basic repository history
+- Initializing and cloning repositories.
+- Tracking changes and creating commits.
+- Working with branches.
+- Pushing changes to GitHub.
+- Reading repository history.
 
 ## Status
 
-Learning archive / practice repository.
+Practice archive for foundational Git exercises.
 
-For more substantial work, see my other repositories and profile.
+## Related Work
+
+- [Python Learning Journey](https://github.com/Mustafasaeed850/python-learning-journey) — my Python and backend learning roadmap.
+- [GitHub Profile](https://github.com/Mustafasaeed850) — current focus and contact link.
